@@ -3,4 +3,4 @@ First one will stop neard process, copy and archive data folder, move it to back
 It will perform daily, weekly and monthly backups. You can run it on a daily basis. It will also remove old backups automatically.
 Also make sure to pass your health check id to monitor health of your cron.
 
-To restore from a backup simply pass your backup file full path and near working dir to restore_backup.sh
+To restore from a backup simply pass your backup file full path and near working dir to restore_backup.sh script
